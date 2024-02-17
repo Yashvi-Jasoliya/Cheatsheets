@@ -20,4 +20,4 @@ grep --> find patterns, regex(occurance)
 history  --> shows history
 sed  --> replaces all occurrences of the word(numbers, alphabets)
 awk  --> replaces all occurance of the word(separators(, , space etc))
-•	While sed excels at simple text substitutions and line-based operations, awk provides more powerful capabilities for structured data manipulation and processing.
+• While sed excels at simple text substitutions and line-based operations, awk provides more powerful capabilities for structured data manipulation and processing.
