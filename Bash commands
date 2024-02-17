@@ -1,0 +1,23 @@
+pwd (Print Working Directory)  --> current location path
+cd     --> change directory
+cd ..  --> back prev. directory (back)  || cd ../.. (2 times back)
+ls (List Files)  --> list of all files of current folder(ls .. -> current folder)
+mkdir --> make new directory(folder)
+touch --> make new document(file)
+cat   -->  read content of file (add content in file => cat > file name )
+vi    --> insert or edit data (for exit -> esc :q!)(save->:wq!)
+mv    --> move file to another place
+cp    -->  create copy of the file in another folder(copy folder use -r)
+rm    -->  Delete file in folder(Delete folder use -r)
+node  --> it gives shell for test node js code / gives content of file
+clear --> clear terminal
+nvm   --> node version manager
+npm   --> node package manager(install libraries)
+chmod --> change the permission of file (4 for Read, 2 for Write and 1 for Execute)
+head -10 file_name  --> gives first 10 lines of head , tail -10 file_name -> gives last 10 lines of tail
+wc   --> word counter(lines, words , characters)
+grep --> find patterns, regex(occurance)
+history  --> shows history
+sed  --> replaces all occurrences of the word(numbers, alphabets)
+awk  --> replaces all occurance of the word(separators(, , space etc))
+•	While sed excels at simple text substitutions and line-based operations, awk provides more powerful capabilities for structured data manipulation and processing.
